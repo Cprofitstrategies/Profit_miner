@@ -1,5 +1,5 @@
 # Profit_miner
-Profit_miner GTX 750 TI 
+Bastos-Profit_miner 
 
 C-Profit Strategies : Welcome Letter!
 
@@ -9,7 +9,7 @@ In my 16 years of experience within the Investment Market, I have deployed my ve
 
 How you decide to take this approach into the Digital Currency market will be based on new experiences both good or bad. Those experiences should always be logged as "Lessons Learned" as it will quickly help you establish your very own basic rules and a strategy to guide you to your success. Simply owning a computer with the capability to quickly and efficiently search and solve complex mathematical equations which in turn, could possibly generate Digital Currency shouldn't be considered too simple. It requires an occasional system update and inspection of how the system maintains itself. For some people, it maybe extremely too difficult as they are completely computer illiterate. The current Computer system is currently setup for minimal maintenance but making it a daily habit to watch and maintain your system will not only prepare you for muscle memory when responding to system catastrophic system failure but also prepare your system for a long lasting haul in working efficiently. Please ensure to read the manual I have created to help with the process of maintaing a good and healthy system. 
 
-Profit Miner version 01.01.18 
+Bastos-Profit Miner version 01.01.18 
 
 This is a base line version which will contain quick start buttons to the following: but not limited to Desktop tweak, Graphics Card drivers (current and future builds), System monitoring and performance tweak, Joining a mining pools, Solo Mining, Online and Offline wallet. 
 
